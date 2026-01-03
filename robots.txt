@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexoabs.github.io/Lysea/sitemap.xml
